@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Youngha.</h1>
-<h3 align="left">I am busy to play by console.</h3>
+<h3 align="left">I am busy.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meegu80&label=Profile%20views&color=0e75b6&style=flat" alt="meegu80" /> </p>
 
