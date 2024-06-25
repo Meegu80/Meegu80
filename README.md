@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meegu80&label=Profile%20views&color=0e75b6&style=flat" alt="meegu80" /> </p>
 
 <h1 align="left">String name = "Kim_Youngha";</h1> 
-<h1 align="left">System.out.println("어,왔어~내꺼 보고가");</h1> 
+<h1 align="left">System.out.println("aka Digital Weaver");</h1> 
 <h3 align="left">I am busy.<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2></h3>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 - 🔭 I’m currently working on ** 국비지원 in 안산이젠컴퓨터학원 when 2024.04~08 **
