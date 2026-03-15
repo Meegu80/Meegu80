@@ -1,21 +1,15 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=200&section=header&text=Meegu80&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=aka%20KnitterRonin&descAlignY=60&descSize=20&descColor=888888" width="100%"/>
-
 </div>
-
 <br/>
-
 <div align="center">
-
+<br/>
 ```
   Building things that matter, one commit at a time.
 ```
-
 </div>
-
 <br/>
-
 ---
 
 ### 👋 About Me
@@ -24,7 +18,7 @@
 public class Meegu80 extends Developer {
 
     String nickname  = "KnitterRonin";
-    String[] focus   = { "Full Stack", "Backend", "Cloud" };
+    String[] focus   = { "Full Stack", "FrontEnd", "Cloud" };
     String status    = "Always building, always learning";
 
     public String greet() {
