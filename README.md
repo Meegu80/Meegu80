@@ -159,15 +159,14 @@ public class Meegu80 extends Developer {
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=Meegu80&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Meegu80's%20Stats" />
 &nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meegu80&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+<img height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meegu80&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
 
 <br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Meegu80&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
 
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Meegu80&layout=compact&theme=vision-glow)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
+
 
 ---
 
